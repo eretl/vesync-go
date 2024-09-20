@@ -1,4 +1,4 @@
-module github.com/solarmicrobe/vesync-go
+module github.com/eretl/vesync-go
 
 go 1.15
 
